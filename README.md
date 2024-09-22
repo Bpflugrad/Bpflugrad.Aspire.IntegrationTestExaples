@@ -1,0 +1,1 @@
+# Bpflugrad.Aspire.IntegrationTestExaples
